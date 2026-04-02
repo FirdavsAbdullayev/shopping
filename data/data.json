@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "AudioMax",
+        "title": "Wireless Over-Ear Headphones",
+        "price": 129.99,
+        "description": "Premium noise-canceling wireless headphones with up to 30 hours of continuous battery life and deep bass.",
+        "image": "https://via.placeholder.com/300x200?text=Wireless+Headphones"
+    },
+    {
+        "id": 2,
+        "name": "SmartFit",
+        "title": "SmartFit Pro Activity Watch",
+        "price": 199.50,
+        "description": "Advanced smartwatch featuring real-time heart rate monitoring, built-in GPS, and 50m water resistance.",
+        "image": "https://via.placeholder.com/300x200?text=Smart+Watch"
+    },
+    {
+        "id": 3,
+        "name": "BrewMaster",
+        "title": "12-Cup Programmable Coffee Maker",
+        "price": 79.00,
+        "description": "Start your morning right with this programmable coffee maker, complete with a thermal carafe and auto-shutoff.",
+        "image": "https://via.placeholder.com/300x200?text=Coffee+Maker"
+    },
+    {
+        "id": 4,
+        "name": "Lumina",
+        "title": "Modern LED Desk Lamp",
+        "price": 35.99,
+        "description": "Dimmable LED desk lamp with 5 color modes, an adjustable neck, and a convenient USB charging port.",
+        "image": "https://via.placeholder.com/300x200?text=Desk+Lamp"
+    },
+    {
+        "id": 5,
+        "name": "Nomad",
+        "title": "Canvas Weekend Duffel Bag",
+        "price": 55.00,
+        "description": "Durable, water-resistant canvas duffel bag perfect for short weekend trips and gym sessions.",
+        "image": "https://via.placeholder.com/300x200?text=Duffel+Bag"
+    },
+    {
+        "id": 6,
+        "name": "SoundWave",
+        "title": "Portable Bluetooth Speaker",
+        "price": 49.99,
+        "description": "Compact and waterproof Bluetooth speaker delivering 360-degree sound and 12 hours of playtime.",
+        "image": "https://via.placeholder.com/300x200?text=Bluetooth+Speaker"
+    },
+    {
+        "id": 7,
+        "name": "KeyChron",
+        "title": "Mechanical Gaming Keyboard",
+        "price": 89.99,
+        "description": "RGB backlit mechanical keyboard with tactile switches for satisfying typing and fast gaming response.",
+        "image": "https://via.placeholder.com/300x200?text=Mechanical+Keyboard"
+    },
+    {
+        "id": 8,
+        "name": "ErgoTech",
+        "title": "Wireless Ergonomic Mouse",
+        "price": 29.50,
+        "description": "Designed to reduce wrist strain, this wireless mouse features adjustable DPI and long battery life.",
+        "image": "https://via.placeholder.com/300x200?text=Ergonomic+Mouse"
+    },
+    {
+        "id": 9,
+        "name": "VisionPlus",
+        "title": "27-inch 4K UHD Monitor",
+        "price": 299.00,
+        "description": "Ultra high-definition monitor with vibrant colors, perfect for creative work and immersive gaming.",
+        "image": "https://via.placeholder.com/300x200?text=4K+Monitor"
+    },
+    {
+        "id": 10,
+        "name": "Zenith",
+        "title": "Eco-Friendly Yoga Mat",
+        "price": 24.99,
+        "description": "Non-slip, 6mm thick yoga mat made from environmentally friendly materials. Includes a carrying strap.",
+        "image": "https://via.placeholder.com/300x200?text=Yoga+Mat"
+    },
+    {
+        "id": 11,
+        "name": "HydroFlask",
+        "title": "Insulated Water Bottle",
+        "price": 32.00,
+        "description": "Stainless steel water bottle that keeps your drinks ice cold for 24 hours or piping hot for 12 hours.",
+        "image": "https://via.placeholder.com/300x200?text=Water+Bottle"
+    },
+    {
+        "id": 12,
+        "name": "AeroStride",
+        "title": "Lightweight Running Shoes",
+        "price": 115.00,
+        "description": "Breathable mesh running shoes with responsive cushioning to help you go the extra mile.",
+        "image": "https://via.placeholder.com/300x200?text=Running+Shoes"
+    },
+    {
+        "id": 13,
+        "name": "FlexCore",
+        "title": "Set of 5 Resistance Bands",
+        "price": 15.99,
+        "description": "Versatile resistance bands with varying tension levels. Perfect for home workouts and physical therapy.",
+        "image": "https://via.placeholder.com/300x200?text=Resistance+Bands"
+    },
+    {
+        "id": 14,
+        "name": "SmilePro",
+        "title": "Electric Toothbrush",
+        "price": 45.00,
+        "description": "Sonic electric toothbrush with 3 brushing modes and a built-in 2-minute timer for optimal oral care.",
+        "image": "https://via.placeholder.com/300x200?text=Electric+Toothbrush"
+    },
+    {
+        "id": 15,
+        "name": "Aura",
+        "title": "Ionic Hair Dryer",
+        "price": 65.50,
+        "description": "Professional-grade hair dryer with negative ion technology to reduce frizz and dry hair faster.",
+        "image": "https://via.placeholder.com/300x200?text=Hair+Dryer"
+    },
+    {
+        "id": 16,
+        "name": "NutriBlend",
+        "title": "High-Speed Personal Blender",
+        "price": 39.99,
+        "description": "Make smoothies and shakes on the go with this powerful personal blender. Includes 2 travel cups.",
+        "image": "https://via.placeholder.com/300x200?text=Personal+Blender"
+    },
+    {
+        "id": 17,
+        "name": "CrispChef",
+        "title": "5-Quart Digital Air Fryer",
+        "price": 85.00,
+        "description": "Enjoy your favorite fried foods with up to 85% less fat. Features a digital touchscreen with 7 presets.",
+        "image": "https://via.placeholder.com/300x200?text=Air+Fryer"
+    },
+    {
+        "id": 18,
+        "name": "GlowSmart",
+        "title": "Wi-Fi LED Smart Bulb",
+        "price": 14.99,
+        "description": "Color-changing smart bulb compatible with Alexa and Google Home. No hub required.",
+        "image": "https://via.placeholder.com/300x200?text=Smart+Bulb"
+    },
+    {
+        "id": 19,
+        "name": "PowerBank",
+        "title": "10000mAh Portable Charger",
+        "price": 22.50,
+        "description": "Ultra-slim power bank with dual USB outputs, capable of charging your phone up to 3 times.",
+        "image": "https://via.placeholder.com/300x200?text=Portable+Charger"
+    },
+    {
+        "id": 20,
+        "name": "Elevate",
+        "title": "Adjustable Laptop Stand",
+        "price": 28.99,
+        "description": "Aluminum laptop stand that improves posture and airflow. Fits most laptops up to 15.6 inches.",
+        "image": "https://via.placeholder.com/300x200?text=Laptop+Stand"
+    }
+]
