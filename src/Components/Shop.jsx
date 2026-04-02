@@ -2,6 +2,7 @@ import axios from "axios";
 import React, { useEffect, useState } from "react";
 
 const Shop = () => {
+  // 1. Boshlang'ich qiymat bo'sh massiv [] bo'lishi kerak
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
@@ -9,6 +10,7 @@ const Shop = () => {
       try {
         let res = await axios.get("http://localhost:3000/products");
         
+        // JSON server tuzilishiga qarab: agar ob'ekt ichida "products" bo'lsa res.data.products 
         // Agar to'g'ridan-to'g'ri massiv qaytsa res.data o'zini ishlatamiz.
         setProducts(res.data.products || res.data);
       } catch (error) {
@@ -37,7 +39,7 @@ const Shop = () => {
 
             {/* 3. JSON da maydon 'description' deb nomlangan */}
             <p className="product-desc">{product.description}</p>
-            <button className="buy-btn" onClick={() => {}}>Buy Now</button>
+            <button className="buy-btn">Buy Now</button>
           </div>
         ))}
       </div>
